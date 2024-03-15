@@ -14,10 +14,21 @@ a:hover {
     cursor: pointer;
 }
 
-.background {
+.container-links {
     display: flex;
     justify-content: space-between;
     background-color: aqua;
     padding: 10px 20px ;
-    
+
+}
+
+img {
+    border-radius: 5px;
+    box-shadow: black;
+    }
+
+.container-img {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
 }
