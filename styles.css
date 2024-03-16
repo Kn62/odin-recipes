@@ -1,9 +1,38 @@
 * {
-    font-family: sans-serif;
+    font-family: Helvetica, sans-serif;
     padding: 0 ;
     margin: 0;
 }
 
+body {
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    padding: auto;
+    margin: 30px;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin: 10px 35px;
+}
+
+h3 {
+    font-size: 1.75em;
+    margin: 25px 55px;
+}
+
+p {
+    font-size: 1.25em;
+    margin: 10px 35px;
+}
+
+ul,ol {
+    margin: 10px 105px;
+}
 a {
     text-decoration: none;
     color: black;
